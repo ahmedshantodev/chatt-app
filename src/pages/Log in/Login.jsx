@@ -112,6 +112,7 @@ const Login = () => {
               />
               <div className="input-area">
                 <TextField
+                  sx={{ width: "368px", mb: "10px" }}
                   value={registrationData.email}
                   name="email"
                   id="outlined-basic"
@@ -127,6 +128,7 @@ const Login = () => {
 
                 <div className="password">
                   <TextField
+                    sx={{ width: "368px", mb: "10px" }}
                     value={registrationData.password}
                     name="password"
                     type={eyeOpen ? "text" : "password"}
