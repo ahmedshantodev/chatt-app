@@ -1,0 +1,86 @@
+.registration-left-part {
+  /* background-color: gray; */
+  width: 497px;
+  margin: 225px 69px 0 auto;
+}
+.registration-left-part .registration-heading {
+  font-family: "Nunito", sans-serif;
+  font-size: 34px;
+  font-weight: bold;
+  margin-bottom: 14px;
+}
+.registration-left-part .registration-para {
+  font-style: 20px;
+  font-family: "Nunito", sans-serif;
+  color: #808080;
+  margin-bottom: 40px;
+}
+.registration-left-part .input-area {
+  width: 368px;
+}
+.registration-left-part .css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  width: 100%;
+  margin: 30px 0 4px 0;
+  color: #11175D;
+}
+.registration-left-part .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  font-family: "Nunito", sans-serif;
+}
+.registration-left-part .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  padding: 10px 0;
+  width: 100%;
+  background-color: #5F35F5;
+  border-radius: 86px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  text-transform: capitalize;
+  margin-top: 20px;
+}
+.css-1pkfx9i-MuiButtonBase-root-MuiButton-root-MuiLoadingButton-root.Mui-disabled {
+  margin-top: 20px;
+  background-color: #5F35F5;
+  color: white !important;
+  padding: 10px 0;
+  width: 100%;
+  border-radius: 86px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  text-transform: capitalize;
+}
+.css-17xq7a1-MuiLoadingButton-loadingIndicator{
+  margin: 0 0 0 120px;
+}
+.registration-left-part .css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+  background-color: #5f35f5;
+}
+.registration-left-part .bottom-text{
+  color: #03014C;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+.registration-left-part .bottom-text .sign-in{
+  color: #EA6C00;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 5px;
+}
+.registration-left-part .password{
+  position: relative;
+}
+.registration-left-part .eye{
+  position: absolute;
+  top: 45%;
+  transform: translateY(50%);
+  right: 20px;
+}
+/* .registration-left-part{ */
+
+.registration-right-image {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
