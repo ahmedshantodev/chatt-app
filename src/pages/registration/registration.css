@@ -73,8 +73,7 @@
 }
 .registration-left-part .eye{
   position: absolute;
-  top: 45%;
-  transform: translateY(50%);
+  top: 30%;
   right: 20px;
 }
 /* .registration-left-part{ */
